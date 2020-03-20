@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyConvertor</string>
+    <string name="enter_the_currency_in">Enter the currency in $</string>
+</resources>
